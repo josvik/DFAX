@@ -1,0 +1,3 @@
+[
+{"name": "DFAX", "command": "/usr/bin/python3 /var/dfax/dfax.py", "arguments": ["registry"]}
+]
